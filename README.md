@@ -8,13 +8,13 @@ Nexle project test
 
 ## Run
 
-**VScode**
+## VScode
 
     Open run and debug or press ⇧⌘D
 
     Choose enviroment and run
 
-**Terminal**
+## Terminal
 
     Open terminal and input:
 
